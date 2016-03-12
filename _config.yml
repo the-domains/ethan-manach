@@ -1,7 +1,7 @@
 name: ethan manach
 favicon: null
-layout_spectrum: 0.9634781565982848
-typography_spectrum: 0.49240329349413514
+layout_spectrum: 1
+typography_spectrum: 0.21832
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#89797c'
     - '#573c4b'
   brandStrength: 0.375
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.25
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
